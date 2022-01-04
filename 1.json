@@ -1,10 +1,5 @@
 {
     "id":1,
-    "title":"血型小將III",
-    "name":"B型",
-    "type":"object",
-    "imageUrl":"ipfs://Qme2Jn65VFRiBEXDffDaGRU1MAXXPQ1AWyUL74DpJ2Dsoo",
-    "description":"血型小將 B型 測試",
+    "name":"B V11",
     "image":"ipfs://Qme2Jn65VFRiBEXDffDaGRU1MAXXPQ1AWyUL74DpJ2Dsoo",
-    "httpUrl":"https://ipfs.io/ipfs/Qme2Jn65VFRiBEXDffDaGRU1MAXXPQ1AWyUL74DpJ2Dsoo"
 }
